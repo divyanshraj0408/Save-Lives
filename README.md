@@ -3,6 +3,8 @@ You can also Save A Life. Save Lives is website, where one can find a place to t
 
 Made by Divyansh as a hackathon project.
 
+# Set up in your device
+Kindly go through the Twilio Readme file in ``Save-Lives/sdk-starter-node-master/`` 
 
 
 
